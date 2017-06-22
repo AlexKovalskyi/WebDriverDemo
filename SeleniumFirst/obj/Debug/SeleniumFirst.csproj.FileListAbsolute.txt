@@ -1,0 +1,12 @@
+D:\VS\Selenium\SeleniumFirst\SeleniumFirst\SeleniumFirst\bin\Debug\SeleniumFirst.exe.config
+D:\VS\Selenium\SeleniumFirst\SeleniumFirst\SeleniumFirst\bin\Debug\SeleniumFirst.exe
+D:\VS\Selenium\SeleniumFirst\SeleniumFirst\SeleniumFirst\bin\Debug\SeleniumFirst.pdb
+D:\VS\Selenium\SeleniumFirst\SeleniumFirst\SeleniumFirst\bin\Debug\WebDriver.dll
+D:\VS\Selenium\SeleniumFirst\SeleniumFirst\SeleniumFirst\bin\Debug\WebDriver.xml
+D:\VS\Selenium\SeleniumFirst\SeleniumFirst\SeleniumFirst\obj\Debug\SeleniumFirst.csprojResolveAssemblyReference.cache
+D:\VS\Selenium\SeleniumFirst\SeleniumFirst\SeleniumFirst\obj\Debug\SeleniumFirst.exe
+D:\VS\Selenium\SeleniumFirst\SeleniumFirst\SeleniumFirst\obj\Debug\SeleniumFirst.pdb
+D:\VS\Selenium\SeleniumFirst\SeleniumFirst\SeleniumFirst\bin\Debug\nunit.framework.dll
+D:\VS\Selenium\SeleniumFirst\SeleniumFirst\SeleniumFirst\bin\Debug\nunit.framework.xml
+D:\VS\Selenium\SeleniumFirst\SeleniumFirst\SeleniumFirst\bin\Debug\WebDriver.Support.dll
+D:\VS\Selenium\SeleniumFirst\SeleniumFirst\SeleniumFirst\bin\Debug\WebDriver.Support.xml
