@@ -8,39 +8,17 @@ using System.Threading.Tasks;
 
 namespace SeleniumFirst
 {
-    public class SeleniumGetMethods
+    public static class SeleniumGetMethods
     {
 
-        public static string GetText(string element, PropType elementType)
+        public static string GetText(this IWebElement element)
         {
-            if (elementType == PropType.Id)
-            {
-                return PropertiesCollection.Driver.FindElement(By.Id(element)).GetAttribute("value");
-            }
-            if (elementType == PropType.Name)
-            {
-                return PropertiesCollection.Driver.FindElement(By.Name(element)).GetAttribute("value");
-            }
-            else
-            {
-                return string.Empty;
-            }
+            return element.GetAttribute("value");
         }
 
-        public static string GetTextFromDDL(string element, PropType elementType)
+        public static string GetTextFromDDL(this IWebElement element)
         {
-            if (elementType == PropType.Id)
-            {
-                return new SelectElement(PropertiesCollection.Driver.FindElement(By.Id(element))).AllSelectedOptions.SingleOrDefault().Text;
-            }
-            if (elementType == PropType.Name)
-            {
-                return new SelectElement(PropertiesCollection.Driver.FindElement(By.Name(element))).AllSelectedOptions.SingleOrDefault().Text;
-            }
-            else
-            {
-                return string.Empty;
-            }
+            return new SelectElement(element).AllSelectedOptions.SingleOrDefault().Text;
         }
 
     }

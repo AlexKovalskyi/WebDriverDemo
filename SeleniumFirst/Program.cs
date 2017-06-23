@@ -19,18 +19,19 @@ namespace SeleniumFirst
         public void Initialize()
         {
             PropertiesCollection.Driver = new ChromeDriver();
-            PropertiesCollection.Driver.Navigate().GoToUrl("http://executeautomation.com/demosite/index.html?UserName=&amp;Password=&amp;Login=Login");
+            PropertiesCollection.Driver.Navigate().GoToUrl("http://executeautomation.com/demosite/Login.html");
         }
 
         [Test]
         public void ExecuteTest()
         {
+            //Login to app
+            LoginPajeObject pageLogin = new LoginPajeObject();
+            EAPajeObject pageEA =  pageLogin.Login("execute", "automation");
+            pageEA.FillUserForm("KK", "Kartrick", "Authomation");
 
-            EAPajeObject page = new EAPajeObject();
 
-            page.TxtInitial.SendKeys("Executeauthomation");
 
-            page.BtnSave.Click();
 
             ////Title
             //SeleniumSetMethods.SelectDropDown("TitleId", "Mr.", PropType.Id);

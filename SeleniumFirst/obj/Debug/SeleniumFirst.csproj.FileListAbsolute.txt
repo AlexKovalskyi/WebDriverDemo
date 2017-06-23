@@ -10,3 +10,15 @@ D:\VS\Selenium\SeleniumFirst\SeleniumFirst\SeleniumFirst\bin\Debug\nunit.framewo
 D:\VS\Selenium\SeleniumFirst\SeleniumFirst\SeleniumFirst\bin\Debug\nunit.framework.xml
 D:\VS\Selenium\SeleniumFirst\SeleniumFirst\SeleniumFirst\bin\Debug\WebDriver.Support.dll
 D:\VS\Selenium\SeleniumFirst\SeleniumFirst\SeleniumFirst\bin\Debug\WebDriver.Support.xml
+D:\Git\WebDriverDemo\SeleniumFirst\bin\Debug\SeleniumFirst.exe.config
+D:\Git\WebDriverDemo\SeleniumFirst\bin\Debug\SeleniumFirst.exe
+D:\Git\WebDriverDemo\SeleniumFirst\bin\Debug\SeleniumFirst.pdb
+D:\Git\WebDriverDemo\SeleniumFirst\bin\Debug\nunit.framework.dll
+D:\Git\WebDriverDemo\SeleniumFirst\bin\Debug\WebDriver.dll
+D:\Git\WebDriverDemo\SeleniumFirst\bin\Debug\WebDriver.Support.dll
+D:\Git\WebDriverDemo\SeleniumFirst\bin\Debug\nunit.framework.xml
+D:\Git\WebDriverDemo\SeleniumFirst\bin\Debug\WebDriver.xml
+D:\Git\WebDriverDemo\SeleniumFirst\bin\Debug\WebDriver.Support.xml
+D:\Git\WebDriverDemo\SeleniumFirst\obj\Debug\SeleniumFirst.csprojResolveAssemblyReference.cache
+D:\Git\WebDriverDemo\SeleniumFirst\obj\Debug\SeleniumFirst.exe
+D:\Git\WebDriverDemo\SeleniumFirst\obj\Debug\SeleniumFirst.pdb
